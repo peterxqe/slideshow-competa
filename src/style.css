@@ -1,0 +1,15 @@
+.string > button{
+	display: block;
+}
+.number{
+	width:7%;
+}
+.number > button{
+	margin:2%;
+	float: left;
+	display: inline;
+}
+img{
+	width: 30%;
+	height: 350px;
+}
